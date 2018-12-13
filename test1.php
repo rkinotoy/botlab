@@ -1,3 +1,3 @@
-<?php>
-    echo "Hello Ryoichi."
+<?php
+print_r($_POST);
 ?>
